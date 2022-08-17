@@ -1,0 +1,5 @@
+USERNAME = 'username'
+PASSWORD = '******'
+FRIEND1 = '#'
+FRIEND2 = '#'
+FRIEND3 = '#'
